@@ -42,7 +42,7 @@
     "rxjs": "^6.5.3",
     "swagger-ui-express": "^4.1.2",
     "ts-mapper": "^1.2.4",
-    "typeorm": "^0.2.20",
+    "typeorm": "^0.2.25",
     "validator": "^12.1.0"
   },
   "devDependencies": {
